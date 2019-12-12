@@ -1,2 +1,2 @@
-<?php  echo "Hello !!!" ?>
-<?php  echo "Bonjour  !!!" ?>
+<?php  $var = "Hello !!!"; ?>
+<?php  echo $var"; ?>
